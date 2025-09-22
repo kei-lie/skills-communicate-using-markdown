@@ -1,0 +1,3 @@
+- [x] Pievienot dažādu izmēru tekstu
+- [x] Pievienot attēlus
+- [ ] Dabūt par šo 10
